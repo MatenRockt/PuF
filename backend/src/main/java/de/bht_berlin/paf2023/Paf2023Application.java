@@ -9,7 +9,7 @@ public class Paf2023Application {
 	public static void main(String[] args) {
 
 		SpringApplication.run(Paf2023Application.class, args);
-		System.out.println("Hello Steven!!");
+		System.out.println("It Works! Upload via Github auch!!");
 	}
 
 }
